@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="400"src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjk&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanjk" alt="hassanjk" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hassan62766763" target="blank"><img src="https://img.shields.io/twitter/follow/hassan62766763?logo=twitter&style=for-the-badge" alt="hassan62766763" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks,Courses, Etc.**
