@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks,Courses, Etc.**
 
-- 👯 I’m looking to collaborate on **laravel,react,software-dev**
+- 👯 I’m looking to collaborate on **laravel,react,software-dev, dart, flutter, discord-bot, python, docker, openSource Projects**
 
 - 🏆 I’m currently working on **TeknoFest,Hackathons,hackerank**
 
